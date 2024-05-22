@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Data folder
+data-topic-classification/
+data-text-summarization/
+
 # Distribution / packaging
 .Python
 build/
